@@ -1,4 +1,4 @@
-Monitize Create 
+iTunes-Searcher
 ================
 
 Description
